@@ -1,0 +1,11 @@
+/build/
+
+/log/*
+!/log/placeholder
+
+.*/
+!/.github/
+
+learning-cxx.code-workspace
+.history
+.xmake
